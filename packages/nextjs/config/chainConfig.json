@@ -1,0 +1,6 @@
+{
+  "mainnetName": "base-mainnet",
+  "mainnetChainId": 8453,
+  "testnetChainId": 84532,
+  "testnetChainName": "base-sepolia"
+}
